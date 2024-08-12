@@ -5,6 +5,3 @@ gem 'github-pages'
 gem 'bourbon'
 gem "jekyll", "~> 3.9"
 gem 'jemoji'
-group :jekyll_plugins do
-    gem "jekyll-last-modified-at"
-end

@@ -3,11 +3,6 @@ plugins:
   - jemoji
   - jekyll-paginate
   - kramdown
-  - jekyll-last-modified-at
-
-# Optional. The default date format, used if none is specified in the tag.
-# last-modified-at:
-#     date-format: '%d-%b-%y'
 
 # Site settings
 title: "A Cornocupia of Ideas"
