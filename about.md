@@ -3,15 +3,19 @@ layout: page
 title: About
 permalink: /about/
 ---
+<!-- <style>
+  .center-image {
+    display: block;
+    /* margin: 0 auto; Centers the image */
+    height: 200px; /* Height in pixels */
+    width: 200px; /* Width in pixels */
+  }
+</style>
+<img src="/assets/images/golden_gate_face_crop.png" alt="" class="center-image"> -->
+I'm a Machine Learning Engineer by the day scratching my long time (unexplored) itch for writing.
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Having been a (voracious?) reader since a long time, I've always felt that while reading is great to help with imagination and ideation, it is only through writing that we can channel and direct those ideas in our minds.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+When I am not reading or glued to a screen, you will find me playing soccer, rock climbing or on a road trip.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+---
