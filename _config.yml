@@ -5,7 +5,7 @@ plugins:
   - kramdown
 
 # Site settings
-title: "A Cornucopia of Ideas"
+title: "a Cornucopia of Ideas"
 description: > # this means to ignore newlines until "email:"
    Random Musings
 
