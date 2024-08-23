@@ -1,4 +1,4 @@
-A Cornocupia of Ideas
+A Cornucopia of Ideas
 ========
 
 ~ a blog of random musings
