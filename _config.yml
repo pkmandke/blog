@@ -5,14 +5,14 @@ plugins:
   - kramdown
 
 # Site settings
-title: "Cornucopia of Ideas"
+title: "A Cornocupia of Ideas"
 description: > # this means to ignore newlines until "email:"
    Random Musings
 
 email: pkmandke@vt.edu
 #blog logo
 logo: "/assets/images/arrival_512_x_512.png"
-icon: "/assets/images/favicon.ico" # top left
+icon: "/assets/images/home.png" # top left
 float_logo: true # true, false (default)
 
 # blog cover
