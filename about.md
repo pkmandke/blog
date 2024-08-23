@@ -20,3 +20,7 @@ After all, in this age, aren't we all [drowning in information but starving for 
 When I am not reading or glued to a screen, you will find me playing soccer, rock climbing, playing the keyboard or on a road trip.
 
 ---
+
+Curious what the blog icon means? [Here you go!](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
+
+---
