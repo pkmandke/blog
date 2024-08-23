@@ -21,6 +21,6 @@ When I am not reading or glued to a screen, you will find me playing soccer, roc
 
 ---
 
-Curious what the blog icon means? [Here you go!](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
+Curious what the blog icon means? [Here you go!](https://ajseivadblog.wordpress.com/2018/10/05/arrival-logograms)
 
 ---
