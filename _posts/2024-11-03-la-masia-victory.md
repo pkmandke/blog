@@ -87,13 +87,13 @@ This way, the team essentially bypasses the opponent's defense.
 
 <img src="{{ site.baseurl }}/assets/article_images/2024-11-03-la-masia-victory/barcelona-through-balls-1024x768.png" alt="Through Balls" width="750" height="500">
 
-A prime example of this is the [first goal by Lewandowski](https://www.youtube.com/watch?v=VeKHSKEpCU0), which was essentially a two-touch score with a gorgeous assist from Casadó from just over the half-line with a deep-top finish by Lewa.
+A prime example of this is the [first goal by Lewandowski](https://www.youtube.com/watch?v=VeKHSKEpCU0), which was essentially a two-touch score with a gorgeous assist from Casadó from just over the half-line with a dee-top finish by Lewa.
 Even [Raphinha's goal](https://youtu.be/H9y1RcCiY1o?t=461) at the 84th minute was the result of a perfectly delivered assist from Inigo Martinez from far away in Barca's half - leaving Raphinha in basically a 1:1 with the Madrid goalkeeper.
 
 #### High Defense Line (aka The Offside Trap)
 
 Of course, the offside trap needs no introduction.
-Granted he did not win the Ballon D'or, Mbappe sure did [break the record](https://www.espn.com/soccer/story/_/id/42027932/real-madrid-barcelona-kylian-mbappe-sets-unwanted-offside-record) for most offsides by a single player in La Liga in 15 years.
+Granted he did not win the Ballon D'or, Mbappe sure did [break the 15-year record](https://www.espn.com/soccer/story/_/id/42027932/real-madrid-barcelona-kylian-mbappe-sets-unwanted-offside-record) for most offsides by a single player in La Liga.
 
 With the focus on an aggressive attacking strategy, Barcelona's high defense line serves as a perfect complement.
 As the ball moves into the opponent's half, Barca's defensive line positions itself high-up almost close to the half-line.
@@ -124,9 +124,9 @@ Let's start by looking at the much celebrated front 3 line-up of Raphinha, Lewa,
 It's interesting to note the wide range of age in the forwards; they are 27, 36, and 17, respectively.
 Flick smartly utilizes Lewa as a finisher in the box due to his (relatively) slow pace and agility as compared to Yamal and Raphinha, and there is no denying how well this has worked for the team.
 On the other hand, Yamal, with his top-notch dribbling and pace, frequently departs from pulling wide (atypical for a winger) and swiftly cuts in to make a direct attempt at the goal.
-Yamal's [first UCL goal](https://youtu.be/9C90dR58WVY?t=336) against Monaco is such a prime example of this - a perfect long ball, pause a mindless run to prevent offside, cut in, score.
+Yamal's [first UCL goal](https://youtu.be/9C90dR58WVY?t=336) against Monaco is such a prime example of this - a perfect long ball, pause instead of a (mindless) run to prevent offside, cut in and score.
 
-Another key aspect of Barca's dominance is their double midfield pivots.
+Another key aspect of Barca's dominance is their double pivots.
 I can't help but reminisce about the days with Xavi and Iniesta spearheading a solid attacking midfield for the Catalans, supported by none other than Sergio Busquets.
 This time around, Flick leverages Pedri and Casadó as double pivots that drive the game from the defense line while also cutting deep during attacks.
 On the other side, Dani Olmo plays an excellent role as an attacking midfielder, helping the line-up with the aggressive high press upon loss of possession.
