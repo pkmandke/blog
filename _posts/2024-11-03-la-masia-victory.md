@@ -4,7 +4,7 @@ title:  "A La Masia Victory"
 date:   2024-11-03
 categories: personal
 tags: collections
-update: 2024-11-03
+update: 2024-11-10
 image: /assets/article_images/2024-11-03-la-masia-victory/scoreline.png
 ---
 <!-- {% if page.update %}**[Last Updated: {{ page.update | date: "%Y-%m-%d" }}]**{% endif %} -->
@@ -21,7 +21,7 @@ A (literally) star strudded Real Madrid at the peak of their game, playing an FC
 In the comfort of their home, with the roof closed, the Santiago Bernabeu witnessed nothing short of a massacre.
 After a no-goal first 45mins, the 2nd half was pure Catalan dominance.
 
-<img src="/assets/article_images/2024-11-03-la-masia-victory/4_goals.jpeg" alt="Goal Card" height="700">
+<img src="{{ site.baseurl }}/assets/article_images/2024-11-03-la-masia-victory/4_goals.jpeg" alt="Goal Card" height="700">
 
 >Lewa 54'<br>Lewa 56'<br>Yamal 77'<br>Raphinha 84'
 
@@ -46,7 +46,7 @@ Yet, in my opinion, he did his best to build a solid squad despite budget constr
 <!-- There is often mixed responses to Xavi's time as manager.
 While the club performance on-field was certainly sub-par, we cannot -->
 
-<img src="/assets/article_images/2024-11-03-la-masia-victory/fin_woes.jpg" alt="" height="400">
+<img src="{{ site.baseurl }}/assets/article_images/2024-11-03-la-masia-victory/fin_woes.jpg" alt="" height="400">
 
 If there is a silver lining to any of this at all, it is the fact that Laporte (after his re-election as club president in March'2021) made the decision to turn to La Masia for scouting talent.
 While there is no deying that the motivations were primarily financial, we're indeed reaping the benefits of this now.
@@ -58,7 +58,7 @@ While there is no deying that the motivations were primarily financial, we're in
 
 ### A New Era Begins
 <br>
-<img src="/assets/article_images/2024-11-03-la-masia-victory/flick_signing.jpg" alt="Flick Barca Signing" height="400">
+<img src="{{ site.baseurl }}/assets/article_images/2024-11-03-la-masia-victory/flick_signing.jpg" alt="Flick Barca Signing" height="400">
 
 Hansi Flick is no neophyte when it comes to European Football.
 Among other achievements, perhaps the most notable was his managerial stint at Bayern Munich specially during the 2019-20 season.
@@ -85,7 +85,7 @@ Historically, Barcelona's tiki taka style, inspired from it's Spanish/Dutch lega
 With Flick's `4-3-2-1` (or sometimes `4-3-3`) strategy, he tends to give players more freedom to divert from game building and make directed medium to long range passes to forwards from the midfield or even defense.
 This way the team essentially bypasses the opponents defense.
 
-<img src="/assets/article_images/2024-11-03-la-masia-victory/barcelona-through-balls-1024x768.png" alt="Through Balls" width="750" height="500">
+<img src="{{ site.baseurl }}/assets/article_images/2024-11-03-la-masia-victory/barcelona-through-balls-1024x768.png" alt="Through Balls" width="750" height="500">
 
 A prime examples of this is the [first goal by Lewandowski](https://www.youtube.com/watch?v=VeKHSKEpCU0), which was essentially a two-touch score with a gorgeous assist from Cassado from just over the half-line with a dee-top finish by Lewa.
 Even [Raphinha's goal](https://youtu.be/H9y1RcCiY1o?t=461) at the 84-th minute was the result of a perfectly delivered assist from Inigo Martinez from far away in Barca's half - leaving Raphinha in basically a 1:1 with the Madrid goalkeeper.
@@ -99,7 +99,7 @@ With the focus on an aggressive attacking strategy, Barcalona's high defense lin
 As the ball moves into the opponent's half, Barca's defensive line positions itself high-up almost close to the half line.
 The result is of course what served to be an embarrasing number of offsides for Real Madrid, thwarting any and every attempt at game building.
 
-<img src="/assets/article_images/2024-11-03-la-masia-victory/barcelona-offside-trap-1024x768.png" alt="Barca Offsides Provoked" width="750" height="500">
+<img src="{{ site.baseurl }}/assets/article_images/2024-11-03-la-masia-victory/barcelona-offside-trap-1024x768.png" alt="Barca Offsides Provoked" width="750" height="500">
 
 Of course, this ends up being riskier for situations where possesion is lost and the opposition makes a swift attack.
 To curb such attempts, Flick uses the classic German high press style (aka [gegenpressing](https://en.wikipedia.org/wiki/Association_football_tactics_and_skills#%22Forward%22_versus_%22collapsing%22_defences)) where the entire team resorts to winning the ball back within seconds of losing possesion by employing an aggressively high press.
@@ -120,7 +120,7 @@ At the surface, this may seem like an obvious no-brainer tactic, but it relies t
 
 Let's start by looking at the much celebrated front 3 line-up of Raphinha, Lewa and Yamal which reminds me of [MSN times](https://tribuna.com/en/news/fcbarcelona-2024-11-07-lewandowski-yamal-and-raphinha-stats-already-better-than-msns-after-first-15-games-of-the/).
 
-<img src="/assets/article_images/2024-11-03-la-masia-victory/msn_ylr.png" alt="MSN YLR" width="600" height="400">
+<img src="{{ site.baseurl }}/assets/article_images/2024-11-03-la-masia-victory/msn_ylr.png" alt="MSN YLR" width="600" height="400">
 
 It's interesting to note the wide range of age in the forwards, they are 27, 36 and 17 respectively.
 Flick smartly utilizes Lewa as a finisher in the box due to his (relatively) slow pace and agility as compared to Yamal and Raphinha, and there is no denying how well this has worked for the team.
@@ -139,7 +139,7 @@ There is no denying how well this hybrid strategy is working for the Blaugrana s
 ## Final Word and the Road Ahead
 <br>
 
-<img src="/assets/article_images/2024-11-03-la-masia-victory/team.png" width="600" height="400">
+<img src="{{ site.baseurl }}/assets/article_images/2024-11-03-la-masia-victory/team.png" width="600" height="400">
 
 After a disappointing last few years, it seems like the Blaugrana side is finally making a semblance of a comeback.
 What makes this comeback interesting of course, is their departure from a historic tiki-taka gameplay and into a more bold and aggressive strategy.
@@ -149,7 +149,7 @@ Yet, this is a little too early to call a proper comaback.
 There are a good number of concerns with injuries, monetary issues still not entirely behind us and of course some very glaring blind spots with the high defense line itself.
 But overall, this new Barca is a beast which is not afraid to put it's old ways to test, not afraid to leverage youngsters and give them so much freedom on the field and not afraid to celebrate with a stone cold calma by a 17 year old at the Bernabeu ;\)
 
-<img src="/assets/article_images/2024-11-03-la-masia-victory/yamal_calma.jpeg" style="display: block; margin: 0 auto;" alt="Yamal Calma" width="450" height="700">
+<img src="{{ site.baseurl }}/assets/article_images/2024-11-03-la-masia-victory/yamal_calma.jpeg" style="display: block; margin: 0 auto;" alt="Yamal Calma" width="450" height="700">
 
 <br>
 
