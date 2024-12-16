@@ -4,8 +4,9 @@ title:  "A La Masia Victory"
 date:   2024-11-03
 categories: personal
 tags: collections
-update: 2024-11-10
+update: 2024-12-16
 image: /assets/article_images/2024-11-03-la-masia-victory/scoreline.png
+image2: /assets/article_images/2024-11-03-la-masia-victory/scoreline.png
 ---
 <!-- {% if page.update %}**[Last Updated: {{ page.update | date: "%Y-%m-%d" }}]**{% endif %} -->
 
