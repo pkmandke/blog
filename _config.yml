@@ -12,7 +12,8 @@ description: > # this means to ignore newlines until "email:"
 email: pkmandke@vt.edu
 #blog logo
 logo: "/assets/images/arrival_512_x_512.png"
-icon: "/assets/images/home.png" # top left
+# icon: "/assets/images/home.png" # top left
+icon: "/assets/images/left-arrow.png" # <a href="https://www.flaticon.com/free-icons/left-arrow" title="left arrow icons">Left arrow icons created by Syahrul Hidayatullah - Flaticon</a>
 float_logo: true # true, false (default)
 
 # blog cover

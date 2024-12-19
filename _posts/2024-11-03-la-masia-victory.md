@@ -4,9 +4,9 @@ title:  "A La Masia Victory"
 date:   2024-11-03
 categories: personal
 tags: collections
-update: 2024-12-18
+update: 2024-12-19
 image: /assets/article_images/2024-11-03-la-masia-victory/scoreline.png
-image2: /assets/article_images/2024-11-03-la-masia-victory/yamal_calma.jpeg
+image2: /assets/article_images/2024-11-03-la-masia-victory/yamal_calma.jpeg # for mobile
 ---
 <!-- {% if page.update %}**[Last Updated: {{ page.update | date: "%Y-%m-%d" }}]**{% endif %} -->
 
