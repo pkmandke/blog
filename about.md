@@ -14,10 +14,10 @@ permalink: /about/
 <img src="/assets/images/golden_gate_face_crop.png" alt="" class="center-image"> -->
 I'm a Machine Learning Engineer by the day, here to explore my (latent) love for writing.
 
-Having been a (voracious?) reader since a long time, I've always felt that while reading is great to help with imagination and ideation, it is only through writing that we can organize, cultivate and nurture those ideas in our minds.
+Having been a (voracious?) reader for a while now, I've always felt that while reading is great to help with imagination and ideation, it is only through writing that we can organize, cultivate and nurture those ideas in our minds.
 After all, in this age, aren't we all [drowning in information but starving for knowledge](https://www.brainyquote.com/quotes/e_o_wilson_176377)?
 
-When I am not writing code, you will find me on the soccer field, in the climbing gym, playing the keyboard or on a road trip.
+When I am not writing code, you will find me on the soccer field, in the bouldering gym, playing the keyboard or on a road trip.
 
 ---
 
