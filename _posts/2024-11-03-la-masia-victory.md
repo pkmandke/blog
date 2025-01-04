@@ -4,7 +4,7 @@ title:  "A La Masia Victory"
 date:   2024-11-03
 categories: personal
 tags: collections
-update: 2024-12-19
+update: 2025-01-03
 image: /assets/article_images/2024-11-03-la-masia-victory/scoreline.png
 image2: /assets/article_images/2024-11-03-la-masia-victory/yamal_calma.jpeg # for mobile
 ---
@@ -17,7 +17,7 @@ image2: /assets/article_images/2024-11-03-la-masia-victory/yamal_calma.jpeg # fo
 
 This day will go down in history as the day when football won.
 The battle itself is not a new one, just one with new faces.
-A star-studded Real Madrid at the peak of their game, playing an FC Barcelona side that has had arguably the toughest few years in the recent past.
+A star-studded Real Madrid playing an FC Barcelona side that has had arguably the toughest few years in the recent past.
 
 In the comfort of their home, with the roof closed, the Santiago Bernabeu witnessed nothing short of a massacre.
 After a no-goal first 45 mins, the 2nd half was pure Catalan dominance.
