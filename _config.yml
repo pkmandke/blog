@@ -4,6 +4,12 @@ plugins:
   - jekyll-paginate
   - kramdown
 
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 # Site settings
 title: "A Cornucopia of Ideas"
 description: > # this means to ignore newlines until "email:"

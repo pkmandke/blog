@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/styles/github.min.css">
 
   {% include head.html %}
 
@@ -20,6 +21,16 @@
     {% include footer.html %}
     {% include javascripts.html %}
 
-  </body>
+    <!-- Add highlight.js script and initialization -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.1/highlight.min.js"></script>
+    <script>
+      // Initialize highlight.js
+      document.addEventListener('DOMContentLoaded', (event) => {
+        document.querySelectorAll('pre code').forEach((block) => {
+          hljs.highlightElement(block);
+        });
+      });
+    </script>
 
+  </body>
 </html>
