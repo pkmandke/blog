@@ -14,10 +14,10 @@ permalink: /about/
 <img src="/assets/images/golden_gate_face_crop.png" alt="" class="center-image"> -->
 I'm a <a href="https://pkmandke.github.io/" target="_blank">Machine Learning Engineer</a> by the day, here to explore my (latent) love for writing.
 
-Having been a (voracious?) reader for a while now, I've always felt that while reading is great to help with imagination and ideation, it is only through writing that we can organize, cultivate and nurture those ideas in our minds.
+Having been a (voracious?) reader, I've always felt that while reading is great to help with imagination and ideation, it is only through writing that we can organize, cultivate and nurture those ideas in our minds.
 After all, in this age, aren't we all <a href="https://www.brainyquote.com/quotes/e_o_wilson_176377" target="_blank">drowning in information but starving for knowledge</a>?
 
-When I am not writing code, you will find me on the football field, in the bouldering gym, playing the keyboard or on a <a href="https://computing.ece.vt.edu/~pkmandke/misc/travel/us/" target="_blank">road trip</a>.
+When I am not writing code, you will find me on the football field, in the bouldering gym, playing the keyboard or on a <a href="https://pkmandke.github.io/misc/travel/us/" target="_blank">road trip</a>.
 
 ---
 
